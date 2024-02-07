@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844403786760",
+    "project_id": "vehiclecare-fdbfa",
+    "storage_bucket": "vehiclecare-fdbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844403786760:android:a15556e5d4510b165cbdbd",
+        "android_client_info": {
+          "package_name": "com.vehiclescare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUuWhPQsYDLpARq0t56O6BabAdAdUyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
